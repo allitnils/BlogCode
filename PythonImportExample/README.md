@@ -53,4 +53,4 @@ $ cd PythonImportExample
 $ pip install -e .
 ```
 
-You can find me on medium [here](https://ivanocampo.com).
+You can find me [here](https://ivanocampo.com).
