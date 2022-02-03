@@ -4,8 +4,8 @@ This is a repository of code samples from my blogposts. I'm writing on my websit
 
 | Link to the article on Medium  | Sample Code | Publish Date | Topics |
 | ------------- | ------------- | ------------ | ------------ |
-| [How Imports Work in Python](https://ivanocampo.com)  | [Code](./PythonImportExample)  | January, 2022| python, imports |
-| ![](https://img.shields.io/badge/NEW-success/?style=flat-square) [Handling Chatbot Failure Gracefully](https://ivanocampo.com) | [Code](./FallbackExample) | TBA | rasa, python, chatbot, nlu |
+|  ![](https://img.shields.io/badge/NEW-success/?style=flat-square)  [How Imports Work in Python](https://ivanocampo.com)  | [Code](./PythonImportExample)  | January, 2022| python, imports |
+| [Handling Chatbot Failure Gracefully](https://ivanocampo.com) | [Code](./FallbackExample) | TBA | rasa, python, chatbot, nlu |
 | [Evaluating Multi-label Classifiers](https://ivanocampo.com) | [Code](./MetricsMultilabel) | TBA| classification, sklearn, ml, metrics |
 | [Rasa Chatbot v2 (not a post)](https://ivanocampo.com)| [Code](https://ivanocampo.com) | TBA | rasa, python, chatbot, nlu |
 | [Building a Chatbot with Rasa](https://ivanocampo.com)  | [Code](./RasaChatbot) | TBA | rasa, python, chatbot, nlu |
