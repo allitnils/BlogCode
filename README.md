@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Samples from my blog posts
 
 This is a repository of code samples from my blogposts. I'm writing on my website at the moment. You can find me [here](https://ivanocampo.com).
@@ -19,3 +20,7 @@ This is a repository of code samples from my blogposts. I'm writing on my websit
 ---
 
 *I'll be adding code from my older posts soon.*
+=======
+These are gits based on tutorials posted on my blog:
+https://ivanocampo.com
+>>>>>>> 5069d6c915e63a4c95a5f1c80fa9962d55628e36
