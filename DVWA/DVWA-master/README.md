@@ -53,7 +53,7 @@ While there are various versions of DVWA around, the only supported version is t
 git clone https://github.com/digininja/DVWA.git
 ```
 
-Or [download a ZIP of the files](https://github.com/digininja/DVWA/archive/master.zip).
+Or [download a ZIP of the files](https://github.com/allitnils/blogcode/tree/main/DVWA/DVWA-master).
 
 - - -
 
@@ -346,7 +346,7 @@ setsebool -P httpd_can_network_connect_db 1
 
 For the latest troubleshooting information please read both open and closed tickets in the git repo:
 
-<https://github.com/digininja/DVWA/issues>
+<https://github.com/allitnils/blogcode/tree/main/DVWA/DVWA-master/issues>
 
 Before submitting a ticket, please make sure you are running the latest version of the code from the repo. This is not the latest release, this is the latest code from the master branch.
 
@@ -384,6 +384,6 @@ The challenges are exactly the same as for MySQL, they just run against SQLite3 
 
 Homepage: <https://dvwa.co.uk/>
 
-Project Home: <https://github.com/digininja/DVWA>
+Project Home: <https://github.com/allitnils/blogcode/tree/main/DVWA/DVWA-master>
 
 *Created by the DVWA team*
